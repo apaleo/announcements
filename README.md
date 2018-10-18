@@ -1,7 +1,6 @@
-apaleo API Announcements
-=============
+# !!! DO NOT POST ISSUES IN THIS REPO !!!
 
-!!! DO NOT POST ISSUES IN THIS REPO !!!
+## apaleo API Announcements
 
 This repo is for team announcements only.
 
