@@ -1,4 +1,4 @@
-Apaleo API Announcements
+apaleo API Announcements
 =============
 
 !!! DO NOT POST ISSUES IN THIS REPO !!!
