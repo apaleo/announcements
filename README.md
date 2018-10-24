@@ -2,7 +2,7 @@
 
 ## apaleo API Announcements
 
-This repo is for team announcements only.
+This repo is for apaleo API announcements only.
 
 To file a bug or start a discussion, please go to https://github.com/apaleo/api and create a new issue.
 
