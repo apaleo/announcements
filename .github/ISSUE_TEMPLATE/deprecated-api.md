@@ -16,7 +16,7 @@ DELETE THIS, it's just to give you some pointers.
 
 Consider following parts:
 
-Title: What is new or changed ("Introducing sub-accounts", "Add unicorns to group bookings")
+Title: What is deprecated or changed ("Distribution API changes [March 31st, 2019]", "Changes in the folio-actions API [May 1st, 2019]")
 Labels: The section where you can find it, nsfw / v1, new feature
 Description:
 
