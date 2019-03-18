@@ -43,6 +43,6 @@ On DATE, these fields / endpoints will be removed.
   - **API3**
     - ENDPOINT4
 
-### Migrtion path:
+### Migration path:
 
 ...
